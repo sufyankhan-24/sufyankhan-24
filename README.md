@@ -39,14 +39,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan-24&layout=compact&theme=radical" alt="top langs">
 
 ---
-
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sufiyan-khan-483021299">
+  <a href="https://www.linkedin.com/in/sufiyan-khan-483021299" style="margin-right: 15px;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
   </a>
-  <a href="mailto:sufiyank.nawab@gmail.com">
+  <a href="mailto:sufiyank.nawab@gmail.com" style="margin-right: 15px;">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
   <a href="https://github.com/sufyankhan-24">
