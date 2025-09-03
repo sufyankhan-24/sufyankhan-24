@@ -43,20 +43,19 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sufiyan-khan-483021299" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sufiyan-khan-483021299">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge&color=0077B5" />
   </a>
-  <a href="mailto:sufiyank.nawab@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:sufiyank.nawab@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-Contact-red?logo=gmail&logoColor=white&style=for-the-badge&color=D14836" />
   </a>
-  <a href="https://github.com/sufyankhan-24" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/sufyankhan-24">
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Portfolio-black?logo=github&logoColor=white&style=for-the-badge&color=181717" />
   </a>
 </p>
 
 ---
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sufyankhan-24&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sufyankhan-24&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
-
