@@ -13,36 +13,44 @@
 
 ---
 
- Tech Stack
-<div>
+## 🛠️ Tech Stack
+
 ### Languages & Frameworks
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
+</div>
 
 ### Frontend & Tools
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
+</div>
 
 ### AI / ML
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="60" height="60" style="border-radius:50%; margin: 10px;" alt="Hugging Face">
+</div>
 
 ### Platforms & Workflow
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 </div>
+
 
 
 ## 🏗️ Highlight Projects
