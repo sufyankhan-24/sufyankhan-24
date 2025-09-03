@@ -12,11 +12,10 @@
 - 🤝 Love collaborating, teaching, and leading technical workshops
 
 ---
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,fastapi,flask,react,vite,mongodb,mysql,tensorflow,pytorch,sklearn,huggingface,aws,docker,linux,postman,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,fastapi,flask,react,vite,mongodb,mysql,tensorflow,pytorch,sklearn,aws,docker,linux,postman,github&perline=8)](https://skillicons.dev)
 
 
 
