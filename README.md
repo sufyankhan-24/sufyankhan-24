@@ -42,14 +42,14 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sufiyan-khan-483021299" style="margin-right: 15px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
+  <a href="https://www.linkedin.com/in/sufiyan-khan-483021299">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sufiyank.nawab@gmail.com" style="margin-right: 15px;">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
+  <a href="mailto:sufiyank.nawab@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sufyankhan-24">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+    <img src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
