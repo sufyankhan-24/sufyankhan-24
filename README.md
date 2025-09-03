@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 <div>
 ### Languages & Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
@@ -43,7 +43,7 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="border-radius:50%; margin: 10px;">
 </div>
----
+
 
 ## 🏗️ Highlight Projects
 
