@@ -44,13 +44,13 @@
 
 <p>
   <a href="https://www.linkedin.com/in/sufiyan-khan-483021299">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge&color=0077B5" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
   </a>
   <a href="mailto:sufiyank.nawab@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-Contact-red?logo=gmail&logoColor=white&style=for-the-badge&color=D14836" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
   <a href="https://github.com/sufyankhan-24">
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Portfolio-black?logo=github&logoColor=white&style=for-the-badge&color=181717" />
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
   </a>
 </p>
 
@@ -59,3 +59,4 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=sufyankhan-24&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
+
