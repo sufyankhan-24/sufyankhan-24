@@ -32,13 +32,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sufyankhan-24&show_icons=true&theme=radical" alt="stats"><br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=sufyankhan-24&theme=radical" alt="streak"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan-24&layout=compact&theme=radical" alt="top langs">
-
----
 ## 🌐 Connect with Me
 
 <p>
