@@ -5,11 +5,11 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BE in Information Science & Engineering (MITE, 2025)
+- 🎓 BE in Information Science & Engineering (MITE, 2026)
 - 💻 Passionate about **AI, Full-Stack Development, and IoT**
-- 🩺 Currently leading **AirPulse** – an AI-powered wireless stethoscope funded under **NAIN 2.0** (₹5 Lakh)
+- 🩺 Lead **AirPulse** – an AI-powered wireless stethoscope funded under **NAIN 2.0** (₹5 Lakh)
 - 🌱 Learning advanced backend systems, cloud integration, and scalable architectures
-- 🤝 Love collaborating, teaching, and leading technical workshops
+- 🤝 Love collaborating and leading technical Projects
 
 ---
 
